@@ -2,10 +2,10 @@
     "header": "Hello World",
     "body": "Testing translation service",
     "body2": "Change value one two three four five",
-    "body3": "new key",
     "body4": "my new string",
+    "body3": "new key",
     "body5": "my new string",
-    "body6": "testing testing",
+    "body6": "testing",
     "body7": "This is not that great.",
     "body8": "Why does this sometimes work?"
 }
