@@ -2,5 +2,6 @@
     "foobar": "Welcome to the foobar page",
     "header": "Welcome to the header page",
     "body1": "This is some body copy.",
-    "body2": "A new blog post."
+    "body2": "A new blog post.",
+    "footer": "Welcome to the footer page"
 }
