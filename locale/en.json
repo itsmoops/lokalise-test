@@ -1,5 +1,6 @@
 {
     "header": "This is the new header",
     "body1": "Testing out some longer form content. I am writing a few sentences to see if I can cause an error to happen. This is really fun.",
+    "body2": "Testing out some longer form content. I am writing a few sentences to see if I can cause an error to happen. This is really fun.",
     "footer": "This is the new footer"
 }
