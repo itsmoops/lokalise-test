@@ -1,11 +1,5 @@
 {
     "header": "This is the new header",
-    "body1": "My old blog post",
-    "body2": "My new blog post",
-    "body3": "My other new blog post",
-    "body4": "My brand-new blog post",
-    "body5": "I do not have a spelling issue.",
-    "body6": "An brand new grammatical error",
-    "body7": "My brand new blog post",
+    "body1": "Testing out some longer form content. I am writing a few sentences to see if I can cause an error to happen. This is really fun.",
     "footer": "This is the new footer"
 }
