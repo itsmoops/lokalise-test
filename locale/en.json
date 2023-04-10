@@ -1,4 +1,5 @@
 {
     "foobar": "Welcome to the foobar page",
-    "header": "Welcome to the header page"
+    "header": "Welcome to the header page",
+    "body1": "This is some body copy."
 }
