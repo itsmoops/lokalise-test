@@ -4,5 +4,6 @@
     "body2": "Testing out some longer form content. I am writing a few sentences to see if I can cause an error to happen. This is really fun.",
     "body3": "adding a new section",
     "footer": "This is the brand new footer",
-    "seoTag": "This is the new SEO tag"
+    "seoTag": "This is the new SEO tag",
+    "metaTag": "This is my new meta tag."
 }
